@@ -30,5 +30,5 @@
 
 > touch .gitignore
 
-
+然后在里面写入: `node_modules/`
 
