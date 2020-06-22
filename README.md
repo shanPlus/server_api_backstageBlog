@@ -24,3 +24,11 @@
 - jsonwebtoken (生成token)
 - 跨域(不是模块)
 
+## git
+
+生成git配置文件
+
+> touch .gitignore
+
+
+
